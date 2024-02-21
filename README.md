@@ -6,8 +6,6 @@ Here's a template for your GitHub README file:
 
 # Image and Video Generation using DeepDream
 
-![DeepDream Image](deepdream_image.jpg)
-
 Leverage the power of AI to create art masterpieces using the DeepDream algorithm. This project involves developing, training, and testing a state-of-the-art DeepDream algorithm using the Keras API in TensorFlow 2.0. The algorithm is applied to both images and videos, creating mesmerizing and trippy effects.
 
 ## Features
